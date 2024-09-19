@@ -9,7 +9,6 @@ body {
 .task2{
     display: flex;
 }
-
 .traffic-light-container {
     display: flex;
     flex-direction: column;
@@ -49,7 +48,6 @@ body {
     top: 210px;
     background-color: green;
 }
-
 /* Світлофор з transform */
 .light-transform .light {
     width: 80px;
