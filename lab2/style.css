@@ -6,35 +6,6 @@ body {
     margin: 0;
     background-color: #f0f0f0;
 }
-table {
-    width: 70%;
-    border-collapse: collapse;
-}
-td {
-    border: 1px solid black;
-    padding: 10px;
-}
-/* Стилі для 1-го рядка */
-.row1 {
-    background-color: #118f8f;
-    color: black;
-}
-
-/* Стилі для 2-го рядка */
-.row2 {
-    background-color: #f5f511;
-    color: black;
-}
-
-/* Зміна кольорів при наведенні на 1-й рядок */
-.row1:hover {
-    background-color: #f5f511;
-}
-
-/* Зміна кольорів при наведенні на 2-й рядок */
-.row2:hover {
-    background-color: #118f8f;
-}
 .task2{
     display: flex;
 }
